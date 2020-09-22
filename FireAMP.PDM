@@ -1,0 +1,261 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=I:\KSK\VB Projects\FireAMP\Setup
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+XMarksTheSpot.pi=
+TwistedPixel.pi=
+Swirl.pi=
+Stars.pi=
+Squares.pi=
+SplashWave.pi=
+Spiro.pi=
+Spinner.pi=
+SpikeFlower.pi=
+ShapeWurx.pi=
+Scope.pi=
+Rotation.pi=
+RandomAscii.pi=
+Pond Ripple.pi=
+PlainBars.pi=
+Peaks.pi=
+mTest.pi=
+LEDBars.pi=
+Fuzzy.pi=
+FractalSquares.pi=
+Fire.pi=
+BeatText.pi=
+VisualizationWurx.dll=
+Particle.dll=
+Fractals.dll=
+BeatDetector.dll=
+Bars.dll=
+AsciiHell.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+D:\KSK new\FireAMP\FireScript\FireSkinLibrary.dll=
+C:\WINNT\system32\msscript.ocx=
+C:\WINNT\system32\quartz.dll=
+C:\WINNT\system32\msimg32.dll=
+D:\KSK new\Plugin\AsciiHell.dll=
+D:\KSK new\Plugin\Bars.dll=
+D:\KSK new\Plugin\BeatDetector.dll=
+D:\KSK new\Plugin\Fractals.dll=
+D:\KSK new\Plugin\Particle.dll=
+D:\KSK new\Plugin\VisualizationWurx.dll=
+I:\KSK\VB Projects\FireAMP\Release\FireSkinLibrary.dll=
+C:\WINDOWS\system32\quartz.dll=
+C:\WINDOWS\system32\msimg32.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\comdlg32.ocx=
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\scrrun.dll=
+C:\WINDOWS\system32\comctl32.ocx=
+C:\WINDOWS\system32\Mscomctl.ocx=
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+asciihell.dll=
+bars.dll=
+beatdetector.dll=
+fractals.dll=
+particle.dll=
+visualizationwurx.dll=
+beattext.pi=
+fire.pi=
+fractalsquares.pi=
+fuzzy.pi=
+ledbars.pi=
+mtest.pi=
+peaks.pi=
+plainbars.pi=
+pond ripple.pi=
+randomascii.pi=
+rotation.pi=
+scope.pi=
+shapewurx.pi=
+spikeflower.pi=
+spinner.pi=
+spiro.pi=
+splashwave.pi=
+squares.pi=
+stars.pi=
+swirl.pi=
+twistedpixel.pi=
+xmarksthespot.pi=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+I:\KSK\VB Projects\FireAMP\Release\FireAMP.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\msimg32.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\quartz.dll=Yes
+I:\KSK\VB Projects\FireAMP\Release\FireSkinLibrary.dll=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\KSK new\FireAMP\FireAMP.Beta3.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\msimg32.dll=$(WinSysPath)
+C:\WINNT\system32\scrrun.dll=$(WinSysPath)
+C:\WINNT\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\quartz.dll=$(WinSysPath)
+C:\WINNT\system32\msscript.ocx=$(WinSysPath)
+D:\KSK new\FireAMP\FireScript\FireSkinLibrary.dll=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\comdlg32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\KSK new\Plugin\AsciiHell.dll=$(AppPath)\Plugins
+D:\KSK new\Plugin\Bars.dll=$(AppPath)\Plugins
+D:\KSK new\Plugin\BeatDetector.dll=$(AppPath)\Plugins
+D:\KSK new\Plugin\Fractals.dll=$(AppPath)\Plugins
+D:\KSK new\Plugin\Particle.dll=$(AppPath)\Plugins
+D:\KSK new\Plugin\VisualizationWurx.dll=$(AppPath)\Plugins
+D:\KSK new\Plugin\BeatText.pi=$(AppPath)\Pi Fles
+D:\KSK new\Plugin\Fire.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\FractalSquares.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Fuzzy.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\LEDBars.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\mTest.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Peaks.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\PlainBars.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Pond Ripple.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\RandomAscii.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Rotation.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Scope.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\ShapeWurx.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\SpikeFlower.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Spinner.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Spiro.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\SplashWave.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Squares.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Stars.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\Swirl.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\TwistedPixel.pi=$(AppPath)\Pi Files
+D:\KSK new\Plugin\XMarksTheSpot.pi=$(AppPath)\Pi Files
+I:\KSK\VB Projects\FireAMP\Release\FireAMP.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msimg32.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\quartz.dll=$(WinSysPath)
+I:\KSK\VB Projects\FireAMP\Release\FireSkinLibrary.dll=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\KSK new\FireAMP\FireAMP.Beta3.exe=No
+D:\KSK new\Plugin\AsciiHell.dll=No
+D:\KSK new\Plugin\Bars.dll=No
+D:\KSK new\Plugin\BeatDetector.dll=No
+D:\KSK new\Plugin\BeatText.pi=No
+D:\KSK new\Plugin\Fire.pi=No
+D:\KSK new\Plugin\FractalSquares.pi=No
+D:\KSK new\Plugin\Fuzzy.pi=No
+D:\KSK new\Plugin\LEDBars.pi=No
+D:\KSK new\Plugin\mTest.pi=No
+D:\KSK new\Plugin\Peaks.pi=No
+D:\KSK new\Plugin\PlainBars.pi=No
+D:\KSK new\Plugin\Pond Ripple.pi=No
+D:\KSK new\Plugin\RandomAscii.pi=No
+D:\KSK new\Plugin\Rotation.pi=No
+D:\KSK new\Plugin\Scope.pi=No
+D:\KSK new\Plugin\ShapeWurx.pi=No
+D:\KSK new\Plugin\SpikeFlower.pi=No
+D:\KSK new\Plugin\Spinner.pi=No
+D:\KSK new\Plugin\Spiro.pi=No
+D:\KSK new\Plugin\SplashWave.pi=No
+D:\KSK new\Plugin\Squares.pi=No
+D:\KSK new\Plugin\Stars.pi=No
+D:\KSK new\Plugin\Swirl.pi=No
+D:\KSK new\Plugin\TwistedPixel.pi=No
+D:\KSK new\Plugin\XMarksTheSpot.pi=No
+D:\KSK new\Plugin\Fractals.dll=No
+D:\KSK new\Plugin\Particle.dll=No
+D:\KSK new\Plugin\VisualizationWurx.dll=No
+I:\KSK\VB Projects\FireAMP\Release\FireAMP.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=FireAMP
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=FireAMP
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|FireAMP]
+Icon1=FireAMP.Beta3.exe
+Title1=FireAMP
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=I:\KSK\VB Projects\FireAMP\Setup
+ProjectFolder=I:\KSK\VB Projects\FireAMP
+ServerSideCab=
+File1=I:\KSK\VB Projects\FireAMP\Setup\setup.exe
+File2=I:\KSK\VB Projects\FireAMP\Setup\Setup.Lst
+File3=I:\KSK\VB Projects\FireAMP\Setup\FireAMP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
